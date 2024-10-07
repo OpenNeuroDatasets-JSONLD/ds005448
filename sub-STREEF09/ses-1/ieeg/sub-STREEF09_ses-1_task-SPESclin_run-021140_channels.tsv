@@ -1,0 +1,134 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	notch	status	status_description
+ACL1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+ACL2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+ACL3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+ACL4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+ACL5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+ACL6	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+ACL7	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+ACL8	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+ACL9	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+ACL10	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+ACL11	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+ACL12	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+GRL1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+GRL2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+GRL3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+GRL4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+GRL5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+GRL6	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+GRL7	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+GRL8	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+GRL9	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+GRL10	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+GRL11	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+GRL12	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+ecg1+	ECG	µV	468	0.15	ecg1-	other	2048	n/a	good	not included
+ah1+	OTHER	µV	468	0.15	ah1-	other	2048	n/a	bad	not recording
+orb1+	EOG	µV	468	0.15	orb1-	other	2048	n/a	good	not included
+TAL1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+TAL2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+TAL3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+TAL4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+TAL5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+FOL1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+FOL2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+FOL3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+FOL4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+FOL5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+FOL6	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+FOL7	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+FOL8	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+FOL9	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+FOL10	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+FOL11	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+FOL12	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+OL1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+OL2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+OL3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+OL4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+OL5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+OL6	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+OL7	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+OL8	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+OL9	SEEG	µV	468	0.15	G2	depth	2048	n/a	bad	electrode in screw
+OL10	SEEG	µV	468	0.15	G2	depth	2048	n/a	bad	electrode in screw
+IFL1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+IFL2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+IFL3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+IFL4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+IFL5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+IFL6	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+IFL7	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+IFL8	SEEG	µV	468	0.15	G2	depth	2048	n/a	bad	electrode in screw
+IFL9	SEEG	µV	468	0.15	G2	depth	2048	n/a	bad	electrode in screw
+IFL10	SEEG	µV	468	0.15	G2	depth	2048	n/a	bad	electrode in screw
+MKR1+	TRIG	µV	468	0.15	MKR1-	other	2048	n/a	good	not included
+PEL1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PEL2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PEL3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PEL4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PEL5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PEL6	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PEL7	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PEL8	SEEG	µV	468	0.15	G2	depth	2048	n/a	bad	electrode in screw
+CL1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+CL2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+CL3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+CL4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+CL5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+CL6	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+CL7	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+CL8	SEEG	µV	468	0.15	G2	depth	2048	n/a	bad	electrode in screw
+MFL1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MFL2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MFL3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MFL4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MFL5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MFL6	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MFL7	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MFL8	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MCL1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MCL2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MCL3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MCL4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MCL5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MCL6	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MCL7	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MCL8	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MCL9	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MCL10	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MML1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MML2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MML3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MML4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MML5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MML6	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MML7	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+MML8	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+VR1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+VR2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+VR3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+VR4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+VR5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+VR6	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+VR7	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+VR8	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PR1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PR2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PR3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PR4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PR5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PR6	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PR7	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PR8	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PR9	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+PR10	SEEG	µV	468	0.15	G2	depth	2048	n/a	bad	electrode in screw
+x31	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+x32	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+x33	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+x34	OTHER	µV	468	0.15	G2	other	2048	n/a	bad	not recording
+thor+	OTHER	Adim.	468	0.15	thor-	other	2048	n/a	bad	not recording
+abdo+	OTHER	Adim.	468	0.15	abdo-	other	2048	n/a	bad	not recording
+xyz+	OTHER	Adim.	468	0.15	xyz-	other	2048	n/a	bad	not recording
+MKR2+	TRIG	µV	468	0.15	MKR2-	other	2048	n/a	good	not included
