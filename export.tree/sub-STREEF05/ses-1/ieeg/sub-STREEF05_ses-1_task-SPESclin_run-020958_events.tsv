@@ -1,0 +1,514 @@
+onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
+364.44580078125	5.38037109375	artefact	n/a	all	all	369.826171875	746385	757404	n/a	n/a	n/a	n/a	n/a	n/a
+707.322265625	31.041015625	artefact	n/a	all	all	738.36328125	1448596	1512168	n/a	n/a	n/a	n/a	n/a	n/a
+744.900390625	22.28955078125	artefact	n/a	all	all	767.18994140625	1525556	1571205	n/a	n/a	n/a	n/a	n/a	n/a
+1169.52880859375	14.248046875	artefact	n/a	all	all	1183.77685546875	2395195	2424375	n/a	n/a	n/a	n/a	n/a	n/a
+1188.0576171875	1.35546875	artefact	n/a	all	all	1189.4130859375	2433142	2435918	n/a	n/a	n/a	n/a	n/a	n/a
+1195.94189453125	2.35546875	artefact	n/a	all	all	1198.29736328125	2449289	2454113	n/a	n/a	n/a	n/a	n/a	n/a
+1485.578125	4.0830078125	artefact	n/a	all	all	1489.6611328125	3042464	3050826	n/a	n/a	n/a	n/a	n/a	n/a
+1741.85107421875	3.041015625	artefact	n/a	all	all	1744.89208984375	3567311	3573539	n/a	n/a	n/a	n/a	n/a	n/a
+1757.0078125	0.38037109375	artefact	n/a	all	all	1757.38818359375	3598352	3599131	n/a	n/a	n/a	n/a	n/a	n/a
+1760.15673828125	0.39697265625	artefact	n/a	all	all	1760.5537109375	3604801	3605614	n/a	n/a	n/a	n/a	n/a	n/a
+1773.1484375	1.5703125	artefact	n/a	all	all	1774.71875	3631408	3634624	n/a	n/a	n/a	n/a	n/a	n/a
+1784.4130859375	0.34716796875	artefact	n/a	all	all	1784.76025390625	3654478	3655189	n/a	n/a	n/a	n/a	n/a	n/a
+1787.537109375	0.26416015625	artefact	n/a	all	all	1787.80126953125	3660876	3661417	n/a	n/a	n/a	n/a	n/a	n/a
+1875.49560546875	0.603515625	artefact	n/a	all	all	1876.09912109375	3841015	3842251	n/a	n/a	n/a	n/a	n/a	n/a
+2026.08251953125	0.29736328125	artefact	n/a	all	all	2026.3798828125	4149417	4150026	n/a	n/a	n/a	n/a	n/a	n/a
+2032.42138671875	0.462890625	artefact	n/a	all	all	2032.88427734375	4162399	4163347	n/a	n/a	n/a	n/a	n/a	n/a
+2254.33056640625	0.37158203125	artefact	n/a	all	all	2254.7021484375	4616869	4617630	n/a	n/a	n/a	n/a	n/a	n/a
+2879.54541015625	0.99169921875	artefact	n/a	all	all	2880.537109375	5897309	5899340	n/a	n/a	n/a	n/a	n/a	n/a
+2990.1650390625	0.9833984375	artefact	n/a	all	all	2991.1484375	6123858	6125872	n/a	n/a	n/a	n/a	n/a	n/a
+17.67529296875	3058.06591796875	stimulation	SPESclin	all	all	3075.7412109375	36199	6299118	n/a	n/a	n/a	n/a	n/a	n/a
+19.009765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	19.010765625	38932	38934.048	monophasic	T01-T02	0.008	0.2	0.001	n/a
+24.00927734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	24.01027734375	49171	49173.048	monophasic	T01-T02	0.008	0.2	0.001	n/a
+29.0087890625	0.001	electrical_stimulation	SPESclin	n/a	n/a	29.0097890625	59410	59412.048	monophasic	T01-T02	0.008	0.2	0.001	n/a
+34.00830078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	34.00930078125	69649	69651.048	monophasic	T01-T02	0.008	0.2	0.001	n/a
+39.0078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	39.0088125	79888	79890.048	monophasic	T01-T02	0.008	0.2	0.001	n/a
+44.5126953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	44.5136953125	91162	91164.048	monophasic	T02-T01	0.008	0.2	0.001	n/a
+49.51220703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	49.51320703125	101401	101403.048	monophasic	T02-T01	0.008	0.2	0.001	n/a
+54.51171875	0.001	electrical_stimulation	SPESclin	n/a	n/a	54.51271875	111640	111642.048	monophasic	T02-T01	0.008	0.2	0.001	n/a
+59.51123046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	59.51223046875	121879	121881.048	monophasic	T02-T01	0.008	0.2	0.001	n/a
+64.51123046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	64.51223046875	132119	132121.048	monophasic	T02-T01	0.008	0.2	0.001	n/a
+76.2421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	76.2431875	156144	156146.048	monophasic	T02-T03	0.008	0.2	0.001	n/a
+81.24169921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	81.24269921875	166383	166385.048	monophasic	T02-T03	0.008	0.2	0.001	n/a
+86.2412109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	86.2422109375	176622	176624.048	monophasic	T02-T03	0.008	0.2	0.001	n/a
+91.2412109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	91.2422109375	186862	186864.048	monophasic	T02-T03	0.008	0.2	0.001	n/a
+96.24072265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	96.24172265625	197101	197103.048	monophasic	T02-T03	0.008	0.2	0.001	n/a
+101.9765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	101.9775625	208848	208850.048	monophasic	T03-T02	0.008	0.2	0.001	n/a
+106.97607421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	106.97707421875	219087	219089.048	monophasic	T03-T02	0.008	0.2	0.001	n/a
+111.97607421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	111.97707421875	229327	229329.048	monophasic	T03-T02	0.008	0.2	0.001	n/a
+116.9755859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	116.9765859375	239566	239568.048	monophasic	T03-T02	0.008	0.2	0.001	n/a
+121.97509765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	121.97609765625	249805	249807.048	monophasic	T03-T02	0.008	0.2	0.001	n/a
+133.7060546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	133.7070546875	273830	273832.048	monophasic	T03-T04	0.008	0.2	0.001	n/a
+138.70556640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	138.70656640625	284069	284071.048	monophasic	T03-T04	0.008	0.2	0.001	n/a
+143.705078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	143.706078125	294308	294310.048	monophasic	T03-T04	0.008	0.2	0.001	n/a
+148.70458984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	148.70558984375	304547	304549.048	monophasic	T03-T04	0.008	0.2	0.001	n/a
+153.7041015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	153.7051015625	314786	314788.048	monophasic	T03-T04	0.008	0.2	0.001	n/a
+159.45361328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	159.45461328125	326561	326563.048	monophasic	T04-T03	0.008	0.2	0.001	n/a
+164.453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	164.454125	336800	336802.048	monophasic	T04-T03	0.008	0.2	0.001	n/a
+169.45263671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	169.45363671875	347039	347041.048	monophasic	T04-T03	0.008	0.2	0.001	n/a
+174.4521484375	0.001	electrical_stimulation	SPESclin	n/a	n/a	174.4531484375	357278	357280.048	monophasic	T04-T03	0.008	0.2	0.001	n/a
+179.4521484375	0.001	electrical_stimulation	SPESclin	n/a	n/a	179.4531484375	367518	367520.048	monophasic	T04-T03	0.008	0.2	0.001	n/a
+191.16943359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	191.17043359375	391515	391517.048	monophasic	T04-T05	0.008	0.2	0.001	n/a
+196.16943359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	196.17043359375	401755	401757.048	monophasic	T04-T05	0.008	0.2	0.001	n/a
+201.1689453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	201.1699453125	411994	411996.048	monophasic	T04-T05	0.008	0.2	0.001	n/a
+206.16845703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	206.16945703125	422233	422235.048	monophasic	T04-T05	0.008	0.2	0.001	n/a
+211.16796875	0.001	electrical_stimulation	SPESclin	n/a	n/a	211.16896875	432472	432474.048	monophasic	T04-T05	0.008	0.2	0.001	n/a
+217.0263671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	217.0273671875	444470	444472.048	monophasic	T05-T04	0.008	0.2	0.001	n/a
+222.02587890625	0.001	electrical_stimulation	SPESclin	n/a	n/a	222.02687890625	454709	454711.048	monophasic	T05-T04	0.008	0.2	0.001	n/a
+227.025390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	227.026390625	464948	464950.048	monophasic	T05-T04	0.008	0.2	0.001	n/a
+232.02490234375	0.001	electrical_stimulation	SPESclin	n/a	n/a	232.02590234375	475187	475189.048	monophasic	T05-T04	0.008	0.2	0.001	n/a
+237.02490234375	0.001	electrical_stimulation	SPESclin	n/a	n/a	237.02590234375	485427	485429.048	monophasic	T05-T04	0.008	0.2	0.001	n/a
+248.6650390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	248.6660390625	509266	509268.048	monophasic	T05-T06	0.008	0.2	0.001	n/a
+253.66455078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	253.66555078125	519505	519507.048	monophasic	T05-T06	0.008	0.2	0.001	n/a
+258.6640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	258.6650625	529744	529746.048	monophasic	T05-T06	0.008	0.2	0.001	n/a
+263.66357421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	263.66457421875	539983	539985.048	monophasic	T05-T06	0.008	0.2	0.001	n/a
+268.6630859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	268.6640859375	550222	550224.048	monophasic	T05-T06	0.008	0.2	0.001	n/a
+274.4296875	0.001	electrical_stimulation	SPESclin	n/a	n/a	274.4306875	562032	562034.048	monophasic	T06-T05	0.008	0.2	0.001	n/a
+279.42919921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	279.43019921875	572271	572273.048	monophasic	T06-T05	0.008	0.2	0.001	n/a
+284.4287109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	284.4297109375	582510	582512.048	monophasic	T06-T05	0.008	0.2	0.001	n/a
+289.42822265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	289.42922265625	592749	592751.048	monophasic	T06-T05	0.008	0.2	0.001	n/a
+294.42822265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	294.42922265625	602989	602991.048	monophasic	T06-T05	0.008	0.2	0.001	n/a
+306.16845703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	306.16945703125	627033	627035.048	monophasic	T06-T07	0.008	0.2	0.001	n/a
+311.16796875	0.001	electrical_stimulation	SPESclin	n/a	n/a	311.16896875	637272	637274.048	monophasic	T06-T07	0.008	0.2	0.001	n/a
+316.16748046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	316.16848046875	647511	647513.048	monophasic	T06-T07	0.008	0.2	0.001	n/a
+321.1669921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	321.1679921875	657750	657752.048	monophasic	T06-T07	0.008	0.2	0.001	n/a
+326.1669921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	326.1679921875	667990	667992.048	monophasic	T06-T07	0.008	0.2	0.001	n/a
+331.9248046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	331.9258046875	679782	679784.048	monophasic	T07-T06	0.008	0.2	0.001	n/a
+336.92431640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	336.92531640625	690021	690023.048	monophasic	T07-T06	0.008	0.2	0.001	n/a
+341.923828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	341.924828125	700260	700262.048	monophasic	T07-T06	0.008	0.2	0.001	n/a
+346.92333984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	346.92433984375	710499	710501.048	monophasic	T07-T06	0.008	0.2	0.001	n/a
+351.92333984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	351.92433984375	720739	720741.048	monophasic	T07-T06	0.008	0.2	0.001	n/a
+363.66357421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	363.66457421875	744783	744785.048	monophasic	T07-T08	0.008	0.2	0.001	Current is lower than requested
+368.6630859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	368.6640859375	755022	755024.048	monophasic	T07-T08	0.008	0.2	0.001	Current is lower than requested
+373.66259765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	373.66359765625	765261	765263.048	monophasic	T07-T08	0.008	0.2	0.001	Current is lower than requested
+378.662109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	378.663109375	775500	775502.048	monophasic	T07-T08	0.008	0.2	0.001	Current is lower than requested
+383.66162109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	383.66262109375	785739	785741.048	monophasic	T07-T08	0.008	0.2	0.001	Current is lower than requested
+389.43359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	389.43459375	797560	797562.048	monophasic	T08-T07	0.008	0.2	0.001	Current is lower than requested
+394.43310546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	394.43410546875	807799	807801.048	monophasic	T08-T07	0.008	0.2	0.001	Current is lower than requested
+399.4326171875	0.001	electrical_stimulation	SPESclin	n/a	n/a	399.4336171875	818038	818040.048	monophasic	T08-T07	0.008	0.2	0.001	Current is lower than requested
+404.43212890625	0.001	electrical_stimulation	SPESclin	n/a	n/a	404.43312890625	828277	828279.048	monophasic	T08-T07	0.008	0.2	0.001	Current is lower than requested
+409.431640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	409.432640625	838516	838518.048	monophasic	T08-T07	0.008	0.2	0.001	Current is lower than requested
+421.1357421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	421.1367421875	862486	862488.048	monophasic	T09-T10	0.008	0.2	0.001	n/a
+426.13525390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	426.13625390625	872725	872727.048	monophasic	T09-T10	0.008	0.2	0.001	n/a
+431.134765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	431.135765625	882964	882966.048	monophasic	T09-T10	0.008	0.2	0.001	n/a
+436.13427734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	436.13527734375	893203	893205.048	monophasic	T09-T10	0.008	0.2	0.001	n/a
+441.1337890625	0.001	electrical_stimulation	SPESclin	n/a	n/a	441.1347890625	903442	903444.048	monophasic	T09-T10	0.008	0.2	0.001	n/a
+447.0263671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	447.0273671875	915510	915512.048	monophasic	T10-T09	0.008	0.2	0.001	n/a
+452.02587890625	0.001	electrical_stimulation	SPESclin	n/a	n/a	452.02687890625	925749	925751.048	monophasic	T10-T09	0.008	0.2	0.001	n/a
+457.025390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	457.026390625	935988	935990.048	monophasic	T10-T09	0.008	0.2	0.001	n/a
+462.02490234375	0.001	electrical_stimulation	SPESclin	n/a	n/a	462.02590234375	946227	946229.048	monophasic	T10-T09	0.008	0.2	0.001	n/a
+467.0244140625	0.001	electrical_stimulation	SPESclin	n/a	n/a	467.0254140625	956466	956468.048	monophasic	T10-T09	0.008	0.2	0.001	n/a
+478.61328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	478.61428125	980200	980202.048	monophasic	T10-T11	0.008	0.2	0.001	n/a
+483.61279296875	0.001	electrical_stimulation	SPESclin	n/a	n/a	483.61379296875	990439	990441.048	monophasic	T10-T11	0.008	0.2	0.001	n/a
+488.6123046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	488.6133046875	1000678	1000680.048	monophasic	T10-T11	0.008	0.2	0.001	n/a
+493.61181640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	493.61281640625	1010917	1010919.048	monophasic	T10-T11	0.008	0.2	0.001	n/a
+498.611328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	498.612328125	1021156	1021158.048	monophasic	T10-T11	0.008	0.2	0.001	n/a
+504.3515625	0.001	electrical_stimulation	SPESclin	n/a	n/a	504.3525625	1032912	1032914.048	monophasic	T11-T10	0.008	0.2	0.001	n/a
+509.35107421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	509.35207421875	1043151	1043153.048	monophasic	T11-T10	0.008	0.2	0.001	n/a
+514.3505859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	514.3515859375	1053390	1053392.048	monophasic	T11-T10	0.008	0.2	0.001	n/a
+519.35009765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	519.35109765625	1063629	1063631.048	monophasic	T11-T10	0.008	0.2	0.001	n/a
+524.349609375	0.001	electrical_stimulation	SPESclin	n/a	n/a	524.350609375	1073868	1073870.048	monophasic	T11-T10	0.008	0.2	0.001	n/a
+536.0673828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	536.0683828125	1097866	1097868.048	monophasic	T11-T12	0.008	0.2	0.001	n/a
+541.06689453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	541.06789453125	1108105	1108107.048	monophasic	T11-T12	0.008	0.2	0.001	n/a
+546.06640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	546.06740625	1118344	1118346.048	monophasic	T11-T12	0.008	0.2	0.001	n/a
+551.06591796875	0.001	electrical_stimulation	SPESclin	n/a	n/a	551.06691796875	1128583	1128585.048	monophasic	T11-T12	0.008	0.2	0.001	n/a
+556.06591796875	0.001	electrical_stimulation	SPESclin	n/a	n/a	556.06691796875	1138823	1138825.048	monophasic	T11-T12	0.008	0.2	0.001	n/a
+561.82470703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	561.82570703125	1150617	1150619.048	monophasic	T12-T11	0.008	0.2	0.001	n/a
+566.82421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	566.82521875	1160856	1160858.048	monophasic	T12-T11	0.008	0.2	0.001	n/a
+571.82373046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	571.82473046875	1171095	1171097.048	monophasic	T12-T11	0.008	0.2	0.001	n/a
+576.8232421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	576.8242421875	1181334	1181336.048	monophasic	T12-T11	0.008	0.2	0.001	n/a
+581.82275390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	581.82375390625	1191573	1191575.048	monophasic	T12-T11	0.008	0.2	0.001	n/a
+593.54052734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	593.54152734375	1215571	1215573.048	monophasic	T12-T13	0.008	0.2	0.001	n/a
+598.54052734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	598.54152734375	1225811	1225813.048	monophasic	T12-T13	0.008	0.2	0.001	n/a
+603.5400390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	603.5410390625	1236050	1236052.048	monophasic	T12-T13	0.008	0.2	0.001	n/a
+608.53955078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	608.54055078125	1246289	1246291.048	monophasic	T12-T13	0.008	0.2	0.001	n/a
+613.5390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	613.5400625	1256528	1256530.048	monophasic	T12-T13	0.008	0.2	0.001	n/a
+619.2880859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	619.2890859375	1268302	1268304.048	monophasic	T13-T12	0.008	0.2	0.001	n/a
+624.2880859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	624.2890859375	1278542	1278544.048	monophasic	T13-T12	0.008	0.2	0.001	n/a
+629.28759765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	629.28859765625	1288781	1288783.048	monophasic	T13-T12	0.008	0.2	0.001	n/a
+634.287109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	634.288109375	1299020	1299022.048	monophasic	T13-T12	0.008	0.2	0.001	n/a
+639.28662109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	639.28762109375	1309259	1309261.048	monophasic	T13-T12	0.008	0.2	0.001	n/a
+651.013671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	651.014671875	1333276	1333278.048	monophasic	T13-T14	0.008	0.2	0.001	n/a
+656.01318359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	656.01418359375	1343515	1343517.048	monophasic	T13-T14	0.008	0.2	0.001	n/a
+661.0126953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	661.0136953125	1353754	1353756.048	monophasic	T13-T14	0.008	0.2	0.001	n/a
+666.01220703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	666.01320703125	1363993	1363995.048	monophasic	T13-T14	0.008	0.2	0.001	n/a
+671.01171875	0.001	electrical_stimulation	SPESclin	n/a	n/a	671.01271875	1374232	1374234.048	monophasic	T13-T14	0.008	0.2	0.001	n/a
+677.0166015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	677.0176015625	1386530	1386532.048	monophasic	T14-T13	0.008	0.2	0.001	n/a
+682.01611328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	682.01711328125	1396769	1396771.048	monophasic	T14-T13	0.008	0.2	0.001	n/a
+687.015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	687.016625	1407008	1407010.048	monophasic	T14-T13	0.008	0.2	0.001	n/a
+692.01513671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	692.01613671875	1417247	1417249.048	monophasic	T14-T13	0.008	0.2	0.001	n/a
+697.0146484375	0.001	electrical_stimulation	SPESclin	n/a	n/a	697.0156484375	1427486	1427488.048	monophasic	T14-T13	0.008	0.2	0.001	n/a
+708.5166015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	708.5176015625	1451042	1451044.048	monophasic	T14-T15	0.008	0.2	0.001	n/a
+713.51611328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	713.51711328125	1461281	1461283.048	monophasic	T14-T15	0.008	0.2	0.001	n/a
+718.515625	0.001	electrical_stimulation	SPESclin	n/a	n/a	718.516625	1471520	1471522.048	monophasic	T14-T15	0.008	0.2	0.001	n/a
+723.51513671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	723.51613671875	1481759	1481761.048	monophasic	T14-T15	0.008	0.2	0.001	n/a
+728.5146484375	0.001	electrical_stimulation	SPESclin	n/a	n/a	728.5156484375	1491998	1492000.048	monophasic	T14-T15	0.008	0.2	0.001	n/a
+734.255859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	734.256859375	1503756	1503758.048	monophasic	T15-T14	0.008	0.2	0.001	n/a
+739.25537109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	739.25637109375	1513995	1513997.048	monophasic	T15-T14	0.008	0.2	0.001	n/a
+744.2548828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	744.2558828125	1524234	1524236.048	monophasic	T15-T14	0.008	0.2	0.001	n/a
+749.25439453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	749.25539453125	1534473	1534475.048	monophasic	T15-T14	0.008	0.2	0.001	n/a
+754.25390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	754.25490625	1544712	1544714.048	monophasic	T15-T14	0.008	0.2	0.001	n/a
+766.01171875	0.001	electrical_stimulation	SPESclin	n/a	n/a	766.01271875	1568792	1568794.048	monophasic	T15-T16	0.008	0.2	0.001	n/a
+771.01123046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	771.01223046875	1579031	1579033.048	monophasic	T15-T16	0.008	0.2	0.001	n/a
+776.0107421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	776.0117421875	1589270	1589272.048	monophasic	T15-T16	0.008	0.2	0.001	n/a
+781.01025390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	781.01125390625	1599509	1599511.048	monophasic	T15-T16	0.008	0.2	0.001	n/a
+786.009765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	786.010765625	1609748	1609750.048	monophasic	T15-T16	0.008	0.2	0.001	n/a
+791.77294921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	791.77394921875	1621551	1621553.048	monophasic	T16-T15	0.008	0.2	0.001	n/a
+796.7724609375	0.001	electrical_stimulation	SPESclin	n/a	n/a	796.7734609375	1631790	1631792.048	monophasic	T16-T15	0.008	0.2	0.001	n/a
+801.77197265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	801.77297265625	1642029	1642031.048	monophasic	T16-T15	0.008	0.2	0.001	n/a
+806.771484375	0.001	electrical_stimulation	SPESclin	n/a	n/a	806.772484375	1652268	1652270.048	monophasic	T16-T15	0.008	0.2	0.001	n/a
+811.77099609375	0.001	electrical_stimulation	SPESclin	n/a	n/a	811.77199609375	1662507	1662509.048	monophasic	T16-T15	0.008	0.2	0.001	n/a
+823.52001953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	823.52101953125	1686569	1686571.048	monophasic	T17-T18	0.008	0.2	0.001	n/a
+828.51953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	828.52053125	1696808	1696810.048	monophasic	T17-T18	0.008	0.2	0.001	n/a
+833.51904296875	0.001	electrical_stimulation	SPESclin	n/a	n/a	833.52004296875	1707047	1707049.048	monophasic	T17-T18	0.008	0.2	0.001	n/a
+838.51904296875	0.001	electrical_stimulation	SPESclin	n/a	n/a	838.52004296875	1717287	1717289.048	monophasic	T17-T18	0.008	0.2	0.001	n/a
+843.5185546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	843.5195546875	1727526	1727528.048	monophasic	T17-T18	0.008	0.2	0.001	n/a
+849.26806640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	849.26906640625	1739301	1739303.048	monophasic	T18-T17	0.008	0.2	0.001	n/a
+854.267578125	0.001	electrical_stimulation	SPESclin	n/a	n/a	854.268578125	1749540	1749542.048	monophasic	T18-T17	0.008	0.2	0.001	n/a
+859.26708984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	859.26808984375	1759779	1759781.048	monophasic	T18-T17	0.008	0.2	0.001	n/a
+864.2666015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	864.2676015625	1770018	1770020.048	monophasic	T18-T17	0.008	0.2	0.001	n/a
+869.2666015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	869.2676015625	1780258	1780260.048	monophasic	T18-T17	0.008	0.2	0.001	n/a
+881.01611328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	881.01711328125	1804321	1804323.048	monophasic	T18-T19	0.008	0.2	0.001	n/a
+886.015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	886.016625	1814560	1814562.048	monophasic	T18-T19	0.008	0.2	0.001	n/a
+891.01513671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	891.01613671875	1824799	1824801.048	monophasic	T18-T19	0.008	0.2	0.001	n/a
+896.0146484375	0.001	electrical_stimulation	SPESclin	n/a	n/a	896.0156484375	1835038	1835040.048	monophasic	T18-T19	0.008	0.2	0.001	n/a
+901.0146484375	0.001	electrical_stimulation	SPESclin	n/a	n/a	901.0156484375	1845278	1845280.048	monophasic	T18-T19	0.008	0.2	0.001	n/a
+907.0146484375	0.001	electrical_stimulation	SPESclin	n/a	n/a	907.0156484375	1857566	1857568.048	monophasic	T19-T18	0.008	0.2	0.001	n/a
+912.01416015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	912.01516015625	1867805	1867807.048	monophasic	T19-T18	0.008	0.2	0.001	n/a
+917.013671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	917.014671875	1878044	1878046.048	monophasic	T19-T18	0.008	0.2	0.001	n/a
+922.01318359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	922.01418359375	1888283	1888285.048	monophasic	T19-T18	0.008	0.2	0.001	n/a
+927.0126953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	927.0136953125	1898522	1898524.048	monophasic	T19-T18	0.008	0.2	0.001	n/a
+938.47900390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	938.48000390625	1922005	1922007.048	monophasic	T19-T20	0.008	0.2	0.001	Current is lower than requested
+943.478515625	0.001	electrical_stimulation	SPESclin	n/a	n/a	943.479515625	1932244	1932246.048	monophasic	T19-T20	0.008	0.2	0.001	Current is lower than requested
+948.47802734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	948.47902734375	1942483	1942485.048	monophasic	T19-T20	0.008	0.2	0.001	Current is lower than requested
+953.4775390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	953.4785390625	1952722	1952724.048	monophasic	T19-T20	0.008	0.2	0.001	Current is lower than requested
+958.47705078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	958.47805078125	1962961	1962963.048	monophasic	T19-T20	0.008	0.2	0.001	Current is lower than requested
+964.2265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	964.2275625	1974736	1974738.048	monophasic	T20-T19	0.008	0.2	0.001	Current is lower than requested
+969.22607421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	969.22707421875	1984975	1984977.048	monophasic	T20-T19	0.008	0.2	0.001	Current is lower than requested
+974.2255859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	974.2265859375	1995214	1995216.048	monophasic	T20-T19	0.008	0.2	0.001	Current is lower than requested
+979.22509765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	979.22609765625	2005453	2005455.048	monophasic	T20-T19	0.008	0.2	0.001	Current is lower than requested
+984.22509765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	984.22609765625	2015693	2015695.048	monophasic	T20-T19	0.008	0.2	0.001	Current is lower than requested
+995.95166015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	995.95266015625	2039709	2039711.048	monophasic	T20-T21	0.008	0.2	0.001	Current is lower than requested
+1000.951171875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1000.952171875	2049948	2049950.048	monophasic	T20-T21	0.008	0.2	0.001	Current is lower than requested
+1005.95068359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1005.95168359375	2060187	2060189.048	monophasic	T20-T21	0.008	0.2	0.001	Current is lower than requested
+1010.9501953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1010.9511953125	2070426	2070428.048	monophasic	T20-T21	0.008	0.2	0.001	Current is lower than requested
+1015.94970703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1015.95070703125	2080665	2080667.048	monophasic	T20-T21	0.008	0.2	0.001	Current is lower than requested
+1021.70751953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1021.70851953125	2092457	2092459.048	monophasic	T21-T20	0.008	0.2	0.001	Current is lower than requested
+1026.70751953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1026.70851953125	2102697	2102699.048	monophasic	T21-T20	0.008	0.2	0.001	Current is lower than requested
+1031.70703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1031.70803125	2112936	2112938.048	monophasic	T21-T20	0.008	0.2	0.001	Current is lower than requested
+1036.70654296875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1036.70754296875	2123175	2123177.048	monophasic	T21-T20	0.008	0.2	0.001	Current is lower than requested
+1041.7060546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1041.7070546875	2133414	2133416.048	monophasic	T21-T20	0.008	0.2	0.001	Current is lower than requested
+1053.423828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1053.424828125	2157412	2157414.048	monophasic	T21-T22	0.008	0.2	0.001	n/a
+1058.42333984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1058.42433984375	2167651	2167653.048	monophasic	T21-T22	0.008	0.2	0.001	n/a
+1063.4228515625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1063.4238515625	2177890	2177892.048	monophasic	T21-T22	0.008	0.2	0.001	n/a
+1068.42236328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1068.42336328125	2188129	2188131.048	monophasic	T21-T22	0.008	0.2	0.001	n/a
+1073.421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1073.422875	2198368	2198370.048	monophasic	T21-T22	0.008	0.2	0.001	n/a
+1079.18505859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1079.18605859375	2210171	2210173.048	monophasic	T22-T21	0.008	0.2	0.001	n/a
+1084.1845703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1084.1855703125	2220410	2220412.048	monophasic	T22-T21	0.008	0.2	0.001	n/a
+1089.18408203125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1089.18508203125	2230649	2230651.048	monophasic	T22-T21	0.008	0.2	0.001	n/a
+1094.18359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1094.18459375	2240888	2240890.048	monophasic	T22-T21	0.008	0.2	0.001	n/a
+1099.18310546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1099.18410546875	2251127	2251129.048	monophasic	T22-T21	0.008	0.2	0.001	n/a
+1111.0146484375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1111.0156484375	2275358	2275360.048	monophasic	T22-T23	0.008	0.2	0.001	n/a
+1116.01416015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1116.01516015625	2285597	2285599.048	monophasic	T22-T23	0.008	0.2	0.001	n/a
+1121.013671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1121.014671875	2295836	2295838.048	monophasic	T22-T23	0.008	0.2	0.001	n/a
+1126.01318359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1126.01418359375	2306075	2306077.048	monophasic	T22-T23	0.008	0.2	0.001	n/a
+1131.0126953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1131.0136953125	2316314	2316316.048	monophasic	T22-T23	0.008	0.2	0.001	n/a
+1136.63525390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1136.63625390625	2327829	2327831.048	monophasic	T23-T22	0.008	0.2	0.001	n/a
+1141.634765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1141.635765625	2338068	2338070.048	monophasic	T23-T22	0.008	0.2	0.001	n/a
+1146.63427734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1146.63527734375	2348307	2348309.048	monophasic	T23-T22	0.008	0.2	0.001	n/a
+1151.6337890625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1151.6347890625	2358546	2358548.048	monophasic	T23-T22	0.008	0.2	0.001	n/a
+1156.63330078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1156.63430078125	2368785	2368787.048	monophasic	T23-T22	0.008	0.2	0.001	n/a
+1168.36474609375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1168.36574609375	2392811	2392813.048	monophasic	T23-T24	0.008	0.2	0.001	n/a
+1173.3642578125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1173.3652578125	2403050	2403052.048	monophasic	T23-T24	0.008	0.2	0.001	n/a
+1178.36376953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1178.36476953125	2413289	2413291.048	monophasic	T23-T24	0.008	0.2	0.001	n/a
+1183.36328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1183.36428125	2423528	2423530.048	monophasic	T23-T24	0.008	0.2	0.001	n/a
+1188.36279296875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1188.36379296875	2433767	2433769.048	monophasic	T23-T24	0.008	0.2	0.001	n/a
+1194.11279296875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1194.11379296875	2445543	2445545.048	monophasic	T24-T23	0.008	0.2	0.001	n/a
+1199.1123046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1199.1133046875	2455782	2455784.048	monophasic	T24-T23	0.008	0.2	0.001	n/a
+1204.11181640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1204.11281640625	2466021	2466023.048	monophasic	T24-T23	0.008	0.2	0.001	n/a
+1209.111328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1209.112328125	2476260	2476262.048	monophasic	T24-T23	0.008	0.2	0.001	n/a
+1214.11083984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1214.11183984375	2486499	2486501.048	monophasic	T24-T23	0.008	0.2	0.001	n/a
+1225.8193359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1225.8203359375	2510478	2510480.048	monophasic	T25-T26	0.008	0.2	0.001	n/a
+1230.81884765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1230.81984765625	2520717	2520719.048	monophasic	T25-T26	0.008	0.2	0.001	n/a
+1235.818359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1235.819359375	2530956	2530958.048	monophasic	T25-T26	0.008	0.2	0.001	n/a
+1240.81787109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1240.81887109375	2541195	2541197.048	monophasic	T25-T26	0.008	0.2	0.001	n/a
+1245.8173828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1245.8183828125	2551434	2551436.048	monophasic	T25-T26	0.008	0.2	0.001	n/a
+1251.576171875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1251.577171875	2563228	2563230.048	monophasic	T26-T25	0.008	0.2	0.001	n/a
+1256.57568359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1256.57668359375	2573467	2573469.048	monophasic	T26-T25	0.008	0.2	0.001	n/a
+1261.5751953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1261.5761953125	2583706	2583708.048	monophasic	T26-T25	0.008	0.2	0.001	n/a
+1266.57470703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1266.57570703125	2593945	2593947.048	monophasic	T26-T25	0.008	0.2	0.001	n/a
+1271.57421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1271.57521875	2604184	2604186.048	monophasic	T26-T25	0.008	0.2	0.001	n/a
+1283.3232421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1283.3242421875	2628246	2628248.048	monophasic	T26-T27	0.008	0.2	0.001	Current is lower than requested
+1288.3232421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1288.3242421875	2638486	2638488.048	monophasic	T26-T27	0.008	0.2	0.001	Current is lower than requested
+1293.32275390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1293.32375390625	2648725	2648727.048	monophasic	T26-T27	0.008	0.2	0.001	Current is lower than requested
+1298.322265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1298.323265625	2658964	2658966.048	monophasic	T26-T27	0.008	0.2	0.001	Current is lower than requested
+1303.32177734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1303.32277734375	2669203	2669205.048	monophasic	T26-T27	0.008	0.2	0.001	Current is lower than requested
+1309.080078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1309.081078125	2680996	2680998.048	monophasic	T27-T26	0.008	0.2	0.001	Current is lower than requested
+1314.07958984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1314.08058984375	2691235	2691237.048	monophasic	T27-T26	0.008	0.2	0.001	Current is lower than requested
+1319.0791015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1319.0801015625	2701474	2701476.048	monophasic	T27-T26	0.008	0.2	0.001	Current is lower than requested
+1324.07861328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1324.07961328125	2711713	2711715.048	monophasic	T27-T26	0.008	0.2	0.001	Current is lower than requested
+1329.078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1329.079125	2721952	2721954.048	monophasic	T27-T26	0.008	0.2	0.001	Current is lower than requested
+1341.0146484375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1341.0156484375	2746398	2746400.048	monophasic	T27-T28	0.008	0.2	0.001	Current is lower than requested
+1346.0146484375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1346.0156484375	2756638	2756640.048	monophasic	T27-T28	0.008	0.2	0.001	Current is lower than requested
+1351.01416015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1351.01516015625	2766877	2766879.048	monophasic	T27-T28	0.008	0.2	0.001	Current is lower than requested
+1356.013671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1356.014671875	2777116	2777118.048	monophasic	T27-T28	0.008	0.2	0.001	Current is lower than requested
+1361.01318359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1361.01418359375	2787355	2787357.048	monophasic	T27-T28	0.008	0.2	0.001	Current is lower than requested
+1366.5751953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1366.5761953125	2798746	2798748.048	monophasic	T28-T27	0.008	0.2	0.001	Current is lower than requested
+1371.57470703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1371.57570703125	2808985	2808987.048	monophasic	T28-T27	0.008	0.2	0.001	Current is lower than requested
+1376.57421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1376.57521875	2819224	2819226.048	monophasic	T28-T27	0.008	0.2	0.001	Current is lower than requested
+1381.57373046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1381.57473046875	2829463	2829465.048	monophasic	T28-T27	0.008	0.2	0.001	Current is lower than requested
+1386.5732421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1386.5742421875	2839702	2839704.048	monophasic	T28-T27	0.008	0.2	0.001	Current is lower than requested
+1398.33056640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1398.33156640625	2863781	2863783.048	monophasic	T28-T29	0.008	0.2	0.001	n/a
+1403.33056640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1403.33156640625	2874021	2874023.048	monophasic	T28-T29	0.008	0.2	0.001	n/a
+1408.330078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1408.331078125	2884260	2884262.048	monophasic	T28-T29	0.008	0.2	0.001	n/a
+1413.32958984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1413.33058984375	2894499	2894501.048	monophasic	T28-T29	0.008	0.2	0.001	n/a
+1418.3291015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1418.3301015625	2904738	2904740.048	monophasic	T28-T29	0.008	0.2	0.001	n/a
+1424.06982421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1424.07082421875	2916495	2916497.048	monophasic	T29-T28	0.008	0.2	0.001	n/a
+1429.0693359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1429.0703359375	2926734	2926736.048	monophasic	T29-T28	0.008	0.2	0.001	n/a
+1434.06884765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1434.06984765625	2936973	2936975.048	monophasic	T29-T28	0.008	0.2	0.001	n/a
+1439.068359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1439.069359375	2947212	2947214.048	monophasic	T29-T28	0.008	0.2	0.001	n/a
+1444.06787109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1444.06887109375	2957451	2957453.048	monophasic	T29-T28	0.008	0.2	0.001	n/a
+1455.79443359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1455.79543359375	2981467	2981469.048	monophasic	T29-T30	0.008	0.2	0.001	n/a
+1460.7939453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1460.7949453125	2991706	2991708.048	monophasic	T29-T30	0.008	0.2	0.001	n/a
+1465.79345703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1465.79445703125	3001945	3001947.048	monophasic	T29-T30	0.008	0.2	0.001	n/a
+1470.79345703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1470.79445703125	3012185	3012187.048	monophasic	T29-T30	0.008	0.2	0.001	n/a
+1475.79296875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1475.79396875	3022424	3022426.048	monophasic	T29-T30	0.008	0.2	0.001	n/a
+1481.54248046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1481.54348046875	3034199	3034201.048	monophasic	T30-T29	0.008	0.2	0.001	n/a
+1486.5419921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1486.5429921875	3044438	3044440.048	monophasic	T30-T29	0.008	0.2	0.001	n/a
+1491.54150390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1491.54250390625	3054677	3054679.048	monophasic	T30-T29	0.008	0.2	0.001	n/a
+1496.541015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1496.542015625	3064916	3064918.048	monophasic	T30-T29	0.008	0.2	0.001	n/a
+1501.54052734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1501.54152734375	3075155	3075157.048	monophasic	T30-T29	0.008	0.2	0.001	n/a
+1513.27197265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1513.27297265625	3099181	3099183.048	monophasic	T30-T31	0.008	0.2	0.001	Current is lower than requested
+1518.271484375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1518.272484375	3109420	3109422.048	monophasic	T30-T31	0.008	0.2	0.001	Current is lower than requested
+1523.27099609375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1523.27199609375	3119659	3119661.048	monophasic	T30-T31	0.008	0.2	0.001	Current is lower than requested
+1528.2705078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1528.2715078125	3129898	3129900.048	monophasic	T30-T31	0.008	0.2	0.001	Current is lower than requested
+1533.27001953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1533.27101953125	3140137	3140139.048	monophasic	T30-T31	0.008	0.2	0.001	Current is lower than requested
+1539.02587890625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1539.02687890625	3151925	3151927.048	monophasic	T31-T30	0.008	0.2	0.001	Current is lower than requested
+1544.025390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1544.026390625	3162164	3162166.048	monophasic	T31-T30	0.008	0.2	0.001	Current is lower than requested
+1549.02490234375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1549.02590234375	3172403	3172405.048	monophasic	T31-T30	0.008	0.2	0.001	Current is lower than requested
+1554.0244140625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1554.0254140625	3182642	3182644.048	monophasic	T31-T30	0.008	0.2	0.001	Current is lower than requested
+1559.02392578125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1559.02492578125	3192881	3192883.048	monophasic	T31-T30	0.008	0.2	0.001	Current is lower than requested
+1570.99658203125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1570.99758203125	3217401	3217403.048	monophasic	T31-T32	0.008	0.2	0.001	Current is lower than requested
+1575.99609375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1575.99709375	3227640	3227642.048	monophasic	T31-T32	0.008	0.2	0.001	Current is lower than requested
+1580.99609375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1580.99709375	3237880	3237882.048	monophasic	T31-T32	0.008	0.2	0.001	Current is lower than requested
+1585.99560546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1585.99660546875	3248119	3248121.048	monophasic	T31-T32	0.008	0.2	0.001	Current is lower than requested
+1590.9951171875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1590.9961171875	3258358	3258360.048	monophasic	T31-T32	0.008	0.2	0.001	Current is lower than requested
+1596.5009765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1596.5019765625	3269634	3269636.048	monophasic	T32-T31	0.008	0.2	0.001	Current is lower than requested
+1601.50048828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1601.50148828125	3279873	3279875.048	monophasic	T32-T31	0.008	0.2	0.001	Current is lower than requested
+1606.5	0.001	electrical_stimulation	SPESclin	n/a	n/a	1606.501	3290112	3290114.048	monophasic	T32-T31	0.008	0.2	0.001	Current is lower than requested
+1611.49951171875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1611.50051171875	3300351	3300353.048	monophasic	T32-T31	0.008	0.2	0.001	Current is lower than requested
+1616.4990234375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1616.5000234375	3310590	3310592.048	monophasic	T32-T31	0.008	0.2	0.001	Current is lower than requested
+1628.19921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1628.20021875	3334552	3334554.048	monophasic	vT6-vT7	0.008	0.2	0.001	n/a
+1633.19873046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1633.19973046875	3344791	3344793.048	monophasic	vT6-vT7	0.008	0.2	0.001	n/a
+1638.19873046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1638.19973046875	3355031	3355033.048	monophasic	vT6-vT7	0.008	0.2	0.001	n/a
+1643.1982421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1643.1992421875	3365270	3365272.048	monophasic	vT6-vT7	0.008	0.2	0.001	n/a
+1648.19775390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1648.19875390625	3375509	3375511.048	monophasic	vT6-vT7	0.008	0.2	0.001	n/a
+1653.9560546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1653.9570546875	3387302	3387304.048	monophasic	vT7-vT6	0.008	0.2	0.001	n/a
+1658.95556640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1658.95656640625	3397541	3397543.048	monophasic	vT7-vT6	0.008	0.2	0.001	n/a
+1663.955078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1663.956078125	3407780	3407782.048	monophasic	vT7-vT6	0.008	0.2	0.001	n/a
+1668.95458984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1668.95558984375	3418019	3418021.048	monophasic	vT7-vT6	0.008	0.2	0.001	n/a
+1673.9541015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1673.9551015625	3428258	3428260.048	monophasic	vT7-vT6	0.008	0.2	0.001	n/a
+1685.6630859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1685.6640859375	3452238	3452240.048	monophasic	vT5-vT6	0.008	0.2	0.001	n/a
+1690.66259765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1690.66359765625	3462477	3462479.048	monophasic	vT5-vT6	0.008	0.2	0.001	n/a
+1695.662109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1695.663109375	3472716	3472718.048	monophasic	vT5-vT6	0.008	0.2	0.001	n/a
+1700.66162109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1700.66262109375	3482955	3482957.048	monophasic	vT5-vT6	0.008	0.2	0.001	n/a
+1705.66162109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1705.66262109375	3493195	3493197.048	monophasic	vT5-vT6	0.008	0.2	0.001	n/a
+1711.42822265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1711.42922265625	3505005	3505007.048	monophasic	vT6-vT5	0.008	0.2	0.001	n/a
+1716.427734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1716.428734375	3515244	3515246.048	monophasic	vT6-vT5	0.008	0.2	0.001	n/a
+1721.42724609375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1721.42824609375	3525483	3525485.048	monophasic	vT6-vT5	0.008	0.2	0.001	n/a
+1726.4267578125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1726.4277578125	3535722	3535724.048	monophasic	vT6-vT5	0.008	0.2	0.001	n/a
+1731.42626953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1731.42726953125	3545961	3545963.048	monophasic	vT6-vT5	0.008	0.2	0.001	n/a
+1743.14404296875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1743.14504296875	3569959	3569961.048	monophasic	vT4-vT5	0.008	0.2	0.001	n/a
+1748.1435546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1748.1445546875	3580198	3580200.048	monophasic	vT4-vT5	0.008	0.2	0.001	n/a
+1753.14306640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1753.14406640625	3590437	3590439.048	monophasic	vT4-vT5	0.008	0.2	0.001	n/a
+1758.142578125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1758.143578125	3600676	3600678.048	monophasic	vT4-vT5	0.008	0.2	0.001	n/a
+1763.142578125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1763.143578125	3610916	3610918.048	monophasic	vT4-vT5	0.008	0.2	0.001	n/a
+1769.0263671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1769.0273671875	3622966	3622968.048	monophasic	vT5-vT4	0.008	0.2	0.001	n/a
+1774.02587890625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1774.02687890625	3633205	3633207.048	monophasic	vT5-vT4	0.008	0.2	0.001	n/a
+1779.025390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1779.026390625	3643444	3643446.048	monophasic	vT5-vT4	0.008	0.2	0.001	n/a
+1784.02490234375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1784.02590234375	3653683	3653685.048	monophasic	vT5-vT4	0.008	0.2	0.001	n/a
+1789.0244140625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1789.0254140625	3663922	3663924.048	monophasic	vT5-vT4	0.008	0.2	0.001	n/a
+1800.63916015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1800.64016015625	3687709	3687711.048	monophasic	vT3-vT4	0.008	0.2	0.001	Current is lower than requested
+1805.638671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1805.639671875	3697948	3697950.048	monophasic	vT3-vT4	0.008	0.2	0.001	Current is lower than requested
+1810.63818359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1810.63918359375	3708187	3708189.048	monophasic	vT3-vT4	0.008	0.2	0.001	Current is lower than requested
+1815.6376953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1815.6386953125	3718426	3718428.048	monophasic	vT3-vT4	0.008	0.2	0.001	Current is lower than requested
+1820.63720703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1820.63820703125	3728665	3728667.048	monophasic	vT3-vT4	0.008	0.2	0.001	Current is lower than requested
+1826.400390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1826.401390625	3740468	3740470.048	monophasic	vT4-vT3	0.008	0.2	0.001	Current is lower than requested
+1831.39990234375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1831.40090234375	3750707	3750709.048	monophasic	vT4-vT3	0.008	0.2	0.001	Current is lower than requested
+1836.3994140625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1836.4004140625	3760946	3760948.048	monophasic	vT4-vT3	0.008	0.2	0.001	Current is lower than requested
+1841.39892578125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1841.39992578125	3771185	3771187.048	monophasic	vT4-vT3	0.008	0.2	0.001	Current is lower than requested
+1846.3984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1846.3994375	3781424	3781426.048	monophasic	vT4-vT3	0.008	0.2	0.001	Current is lower than requested
+1858.1337890625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1858.1347890625	3805458	3805460.048	monophasic	vT2-vT3	0.008	0.2	0.001	Current is lower than requested
+1863.13330078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1863.13430078125	3815697	3815699.048	monophasic	vT2-vT3	0.008	0.2	0.001	Current is lower than requested
+1868.1328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1868.1338125	3825936	3825938.048	monophasic	vT2-vT3	0.008	0.2	0.001	Current is lower than requested
+1873.1328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1873.1338125	3836176	3836178.048	monophasic	vT2-vT3	0.008	0.2	0.001	Current is lower than requested
+1878.13232421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1878.13332421875	3846415	3846417.048	monophasic	vT2-vT3	0.008	0.2	0.001	Current is lower than requested
+1883.89501953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1883.89601953125	3858217	3858219.048	monophasic	vT3-vT2	0.008	0.2	0.001	Current is lower than requested
+1888.89501953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1888.89601953125	3868457	3868459.048	monophasic	vT3-vT2	0.008	0.2	0.001	Current is lower than requested
+1893.89453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1893.89553125	3878696	3878698.048	monophasic	vT3-vT2	0.008	0.2	0.001	Current is lower than requested
+1898.89404296875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1898.89504296875	3888935	3888937.048	monophasic	vT3-vT2	0.008	0.2	0.001	Current is lower than requested
+1903.8935546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1903.8945546875	3899174	3899176.048	monophasic	vT3-vT2	0.008	0.2	0.001	Current is lower than requested
+1915.642578125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1915.643578125	3923236	3923238.048	monophasic	vT1-vT2	0.008	0.2	0.001	Current is lower than requested
+1920.64208984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1920.64308984375	3933475	3933477.048	monophasic	vT1-vT2	0.008	0.2	0.001	Current is lower than requested
+1925.6416015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1925.6426015625	3943714	3943716.048	monophasic	vT1-vT2	0.008	0.2	0.001	Current is lower than requested
+1930.64111328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1930.64211328125	3953953	3953955.048	monophasic	vT1-vT2	0.008	0.2	0.001	Current is lower than requested
+1935.640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1935.641625	3964192	3964194.048	monophasic	vT1-vT2	0.008	0.2	0.001	Current is lower than requested
+1941.39013671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1941.39113671875	3975967	3975969.048	monophasic	vT2-vT1	0.008	0.2	0.001	Current is lower than requested
+1946.39013671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1946.39113671875	3986207	3986209.048	monophasic	vT2-vT1	0.008	0.2	0.001	Current is lower than requested
+1951.3896484375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1951.3906484375	3996446	3996448.048	monophasic	vT2-vT1	0.008	0.2	0.001	Current is lower than requested
+1956.38916015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1956.39016015625	4006685	4006687.048	monophasic	vT2-vT1	0.008	0.2	0.001	Current is lower than requested
+1961.388671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1961.389671875	4016924	4016926.048	monophasic	vT2-vT1	0.008	0.2	0.001	Current is lower than requested
+1973.1240234375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1973.1250234375	4040958	4040960.048	monophasic	sTv4-sTv5	0.008	0.2	0.001	n/a
+1978.12353515625	0.001	electrical_stimulation	SPESclin	n/a	n/a	1978.12453515625	4051197	4051199.048	monophasic	sTv4-sTv5	0.008	0.2	0.001	n/a
+1983.123046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1983.124046875	4061436	4061438.048	monophasic	sTv4-sTv5	0.008	0.2	0.001	n/a
+1988.12255859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	1988.12355859375	4071675	4071677.048	monophasic	sTv4-sTv5	0.008	0.2	0.001	n/a
+1993.1220703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	1993.1230703125	4081914	4081916.048	monophasic	sTv4-sTv5	0.008	0.2	0.001	n/a
+1999.029296875	0.001	electrical_stimulation	SPESclin	n/a	n/a	1999.030296875	4094012	4094014.048	monophasic	sTv5-sTv4	0.008	0.2	0.001	n/a
+2004.02880859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2004.02980859375	4104251	4104253.048	monophasic	sTv5-sTv4	0.008	0.2	0.001	n/a
+2009.0283203125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2009.0293203125	4114490	4114492.048	monophasic	sTv5-sTv4	0.008	0.2	0.001	n/a
+2242.60009765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2242.60109765625	4592845	4592847.048	monophasic	sTv5-sTv4	0.008	0.2	0.001	Current is lower than requested
+2247.599609375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2247.600609375	4603084	4603086.048	monophasic	sTv5-sTv4	0.008	0.2	0.001	Current is lower than requested
+2252.59912109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2252.60012109375	4613323	4613325.048	monophasic	sTv5-sTv4	0.008	0.2	0.001	Current is lower than requested
+2257.5986328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2257.5996328125	4623562	4623564.048	monophasic	sTv5-sTv4	0.008	0.2	0.001	Current is lower than requested
+2262.59814453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2262.59914453125	4633801	4633803.048	monophasic	sTv5-sTv4	0.008	0.2	0.001	Current is lower than requested
+2274.32958984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2274.33058984375	4657827	4657829.048	monophasic	sTv2-sTv3	0.008	0.2	0.001	Current is lower than requested
+2279.3291015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2279.3301015625	4668066	4668068.048	monophasic	sTv2-sTv3	0.008	0.2	0.001	Current is lower than requested
+2284.32861328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2284.32961328125	4678305	4678307.048	monophasic	sTv2-sTv3	0.008	0.2	0.001	Current is lower than requested
+2289.328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2289.329125	4688544	4688546.048	monophasic	sTv2-sTv3	0.008	0.2	0.001	Current is lower than requested
+2294.328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2294.329125	4698784	4698786.048	monophasic	sTv2-sTv3	0.008	0.2	0.001	Current is lower than requested
+2300.068359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2300.069359375	4710540	4710542.048	monophasic	sTv3-sTv2	0.008	0.2	0.001	Current is lower than requested
+2305.06787109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2305.06887109375	4720779	4720781.048	monophasic	sTv3-sTv2	0.008	0.2	0.001	Current is lower than requested
+2310.0673828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2310.0683828125	4731018	4731020.048	monophasic	sTv3-sTv2	0.008	0.2	0.001	Current is lower than requested
+2315.06689453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2315.06789453125	4741257	4741259.048	monophasic	sTv3-sTv2	0.008	0.2	0.001	Current is lower than requested
+2320.06640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2320.06740625	4751496	4751498.048	monophasic	sTv3-sTv2	0.008	0.2	0.001	Current is lower than requested
+2331.79345703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2331.79445703125	4775513	4775515.048	monophasic	sTv1-sTv2	0.008	0.2	0.001	Current is lower than requested
+2336.79296875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2336.79396875	4785752	4785754.048	monophasic	sTv1-sTv2	0.008	0.2	0.001	Current is lower than requested
+2341.79248046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2341.79348046875	4795991	4795993.048	monophasic	sTv1-sTv2	0.008	0.2	0.001	Current is lower than requested
+2346.7919921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2346.7929921875	4806230	4806232.048	monophasic	sTv1-sTv2	0.008	0.2	0.001	Current is lower than requested
+2351.7919921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2351.7929921875	4816470	4816472.048	monophasic	sTv1-sTv2	0.008	0.2	0.001	Current is lower than requested
+2357.54150390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2357.54250390625	4828245	4828247.048	monophasic	sTv2-sTv1	0.008	0.2	0.001	Current is lower than requested
+2362.541015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2362.542015625	4838484	4838486.048	monophasic	sTv2-sTv1	0.008	0.2	0.001	Current is lower than requested
+2367.54052734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2367.54152734375	4848723	4848725.048	monophasic	sTv2-sTv1	0.008	0.2	0.001	Current is lower than requested
+2372.5400390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2372.5410390625	4858962	4858964.048	monophasic	sTv2-sTv1	0.008	0.2	0.001	Current is lower than requested
+2377.53955078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2377.54055078125	4869201	4869203.048	monophasic	sTv2-sTv1	0.008	0.2	0.001	Current is lower than requested
+2389.25732421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2389.25832421875	4893199	4893201.048	monophasic	sTa5-sTa6	0.008	0.2	0.001	n/a
+2394.2568359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2394.2578359375	4903438	4903440.048	monophasic	sTa5-sTa6	0.008	0.2	0.001	n/a
+2399.25634765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2399.25734765625	4913677	4913679.048	monophasic	sTa5-sTa6	0.008	0.2	0.001	n/a
+2404.255859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2404.256859375	4923916	4923918.048	monophasic	sTa5-sTa6	0.008	0.2	0.001	n/a
+2409.25537109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2409.25637109375	4934155	4934157.048	monophasic	sTa5-sTa6	0.008	0.2	0.001	n/a
+2415.02587890625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2415.02687890625	4945973	4945975.048	monophasic	sTa6-sTa5	0.008	0.2	0.001	n/a
+2420.025390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2420.026390625	4956212	4956214.048	monophasic	sTa6-sTa5	0.008	0.2	0.001	n/a
+2425.02490234375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2425.02590234375	4966451	4966453.048	monophasic	sTa6-sTa5	0.008	0.2	0.001	n/a
+2430.02490234375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2430.02590234375	4976691	4976693.048	monophasic	sTa6-sTa5	0.008	0.2	0.001	n/a
+2435.0244140625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2435.0254140625	4986930	4986932.048	monophasic	sTa6-sTa5	0.008	0.2	0.001	n/a
+2446.982421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2446.983421875	5011420	5011422.048	monophasic	sTa4-sTa5	0.008	0.2	0.001	n/a
+2451.982421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2451.983421875	5021660	5021662.048	monophasic	sTa4-sTa5	0.008	0.2	0.001	n/a
+2456.98193359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2456.98293359375	5031899	5031901.048	monophasic	sTa4-sTa5	0.008	0.2	0.001	n/a
+2461.9814453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2461.9824453125	5042138	5042140.048	monophasic	sTa4-sTa5	0.008	0.2	0.001	n/a
+2466.98095703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2466.98195703125	5052377	5052379.048	monophasic	sTa4-sTa5	0.008	0.2	0.001	n/a
+2472.48583984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2472.48683984375	5063651	5063653.048	monophasic	sTa5-sTa4	0.008	0.2	0.001	n/a
+2477.4853515625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2477.4863515625	5073890	5073892.048	monophasic	sTa5-sTa4	0.008	0.2	0.001	n/a
+2482.48486328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2482.48586328125	5084129	5084131.048	monophasic	sTa5-sTa4	0.008	0.2	0.001	n/a
+2487.48486328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2487.48586328125	5094369	5094371.048	monophasic	sTa5-sTa4	0.008	0.2	0.001	n/a
+2492.484375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2492.485375	5104608	5104610.048	monophasic	sTa5-sTa4	0.008	0.2	0.001	n/a
+2504.23291015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2504.23391015625	5128669	5128671.048	monophasic	sTa3-sTa4	0.008	0.2	0.001	Current is lower than requested
+2509.232421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2509.233421875	5138908	5138910.048	monophasic	sTa3-sTa4	0.008	0.2	0.001	Current is lower than requested
+2514.232421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2514.233421875	5149148	5149150.048	monophasic	sTa3-sTa4	0.008	0.2	0.001	Current is lower than requested
+2519.23193359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2519.23293359375	5159387	5159389.048	monophasic	sTa3-sTa4	0.008	0.2	0.001	Current is lower than requested
+2524.2314453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2524.2324453125	5169626	5169628.048	monophasic	sTa3-sTa4	0.008	0.2	0.001	Current is lower than requested
+2529.99462890625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2529.99562890625	5181429	5181431.048	monophasic	sTa4-sTa3	0.008	0.2	0.001	Current is lower than requested
+2534.994140625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2534.995140625	5191668	5191670.048	monophasic	sTa4-sTa3	0.008	0.2	0.001	Current is lower than requested
+2539.99365234375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2539.99465234375	5201907	5201909.048	monophasic	sTa4-sTa3	0.008	0.2	0.001	Current is lower than requested
+2544.9931640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2544.9941640625	5212146	5212148.048	monophasic	sTa4-sTa3	0.008	0.2	0.001	Current is lower than requested
+2549.99267578125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2549.99367578125	5222385	5222387.048	monophasic	sTa4-sTa3	0.008	0.2	0.001	Current is lower than requested
+2561.72802734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2561.72902734375	5246419	5246421.048	monophasic	sTa2-sTa3	0.008	0.2	0.001	Current is lower than requested
+2566.72802734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2566.72902734375	5256659	5256661.048	monophasic	sTa2-sTa3	0.008	0.2	0.001	Current is lower than requested
+2571.7275390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2571.7285390625	5266898	5266900.048	monophasic	sTa2-sTa3	0.008	0.2	0.001	Current is lower than requested
+2576.72705078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2576.72805078125	5277137	5277139.048	monophasic	sTa2-sTa3	0.008	0.2	0.001	Current is lower than requested
+2581.7265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2581.7275625	5287376	5287378.048	monophasic	sTa2-sTa3	0.008	0.2	0.001	Current is lower than requested
+2587.49853515625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2587.49953515625	5299197	5299199.048	monophasic	sTa3-sTa2	0.008	0.2	0.001	Current is lower than requested
+2592.498046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2592.499046875	5309436	5309438.048	monophasic	sTa3-sTa2	0.008	0.2	0.001	Current is lower than requested
+2597.49755859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2597.49855859375	5319675	5319677.048	monophasic	sTa3-sTa2	0.008	0.2	0.001	Current is lower than requested
+2602.4970703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2602.4980703125	5329914	5329916.048	monophasic	sTa3-sTa2	0.008	0.2	0.001	Current is lower than requested
+2607.49658203125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2607.49758203125	5340153	5340155.048	monophasic	sTa3-sTa2	0.008	0.2	0.001	Current is lower than requested
+2619.23681640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2619.23781640625	5364197	5364199.048	monophasic	sTa1-sTa2	0.008	0.2	0.001	Current is lower than requested
+2624.236328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2624.237328125	5374436	5374438.048	monophasic	sTa1-sTa2	0.008	0.2	0.001	Current is lower than requested
+2629.23583984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2629.23683984375	5384675	5384677.048	monophasic	sTa1-sTa2	0.008	0.2	0.001	Current is lower than requested
+2634.2353515625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2634.2363515625	5394914	5394916.048	monophasic	sTa1-sTa2	0.008	0.2	0.001	Current is lower than requested
+2639.23486328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2639.23586328125	5405153	5405155.048	monophasic	sTa1-sTa2	0.008	0.2	0.001	Current is lower than requested
+2645.0283203125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2645.0293203125	5417018	5417020.048	monophasic	sTa2-sTa1	0.008	0.2	0.001	Current is lower than requested
+2650.02783203125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2650.02883203125	5427257	5427259.048	monophasic	sTa2-sTa1	0.008	0.2	0.001	Current is lower than requested
+2655.02783203125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2655.02883203125	5437497	5437499.048	monophasic	sTa2-sTa1	0.008	0.2	0.001	Current is lower than requested
+2660.02734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2660.02834375	5447736	5447738.048	monophasic	sTa2-sTa1	0.008	0.2	0.001	Current is lower than requested
+2665.02685546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2665.02785546875	5457975	5457977.048	monophasic	sTa2-sTa1	0.008	0.2	0.001	Current is lower than requested
+2676.99560546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2676.99660546875	5482487	5482489.048	monophasic	F01-F02	0.008	0.2	0.001	n/a
+2681.9951171875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2681.9961171875	5492726	5492728.048	monophasic	F01-F02	0.008	0.2	0.001	n/a
+2686.99462890625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2686.99562890625	5502965	5502967.048	monophasic	F01-F02	0.008	0.2	0.001	n/a
+2691.99462890625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2691.99562890625	5513205	5513207.048	monophasic	F01-F02	0.008	0.2	0.001	n/a
+2696.994140625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2696.995140625	5523444	5523446.048	monophasic	F01-F02	0.008	0.2	0.001	n/a
+2702.4794921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2702.4804921875	5534678	5534680.048	monophasic	F02-F01	0.008	0.2	0.001	n/a
+2707.47900390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2707.48000390625	5544917	5544919.048	monophasic	F02-F01	0.008	0.2	0.001	n/a
+2712.478515625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2712.479515625	5555156	5555158.048	monophasic	F02-F01	0.008	0.2	0.001	n/a
+2717.47802734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2717.47902734375	5565395	5565397.048	monophasic	F02-F01	0.008	0.2	0.001	n/a
+2722.4775390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2722.4785390625	5575634	5575636.048	monophasic	F02-F01	0.008	0.2	0.001	n/a
+2734.2041015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2734.2051015625	5599650	5599652.048	monophasic	F02-F03	0.008	0.2	0.001	n/a
+2739.20361328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2739.20461328125	5609889	5609891.048	monophasic	F02-F03	0.008	0.2	0.001	n/a
+2744.20361328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2744.20461328125	5620129	5620131.048	monophasic	F02-F03	0.008	0.2	0.001	n/a
+2749.203125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2749.204125	5630368	5630370.048	monophasic	F02-F03	0.008	0.2	0.001	n/a
+2754.20263671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2754.20363671875	5640607	5640609.048	monophasic	F02-F03	0.008	0.2	0.001	n/a
+2759.94384765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2759.94484765625	5652365	5652367.048	monophasic	F03-F02	0.008	0.2	0.001	n/a
+2764.943359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2764.944359375	5662604	5662606.048	monophasic	F03-F02	0.008	0.2	0.001	n/a
+2769.94287109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2769.94387109375	5672843	5672845.048	monophasic	F03-F02	0.008	0.2	0.001	n/a
+2774.9423828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2774.9433828125	5683082	5683084.048	monophasic	F03-F02	0.008	0.2	0.001	n/a
+2779.94189453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2779.94289453125	5693321	5693323.048	monophasic	F03-F02	0.008	0.2	0.001	n/a
+2791.66796875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2791.66896875	5717336	5717338.048	monophasic	F03-F04	0.008	0.2	0.001	n/a
+2796.66748046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2796.66848046875	5727575	5727577.048	monophasic	F03-F04	0.008	0.2	0.001	n/a
+2801.6669921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2801.6679921875	5737814	5737816.048	monophasic	F03-F04	0.008	0.2	0.001	n/a
+2806.66650390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2806.66750390625	5748053	5748055.048	monophasic	F03-F04	0.008	0.2	0.001	n/a
+2811.666015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2811.667015625	5758292	5758294.048	monophasic	F03-F04	0.008	0.2	0.001	n/a
+2817.42431640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2817.42531640625	5770085	5770087.048	monophasic	F04-F03	0.008	0.2	0.001	n/a
+2822.423828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2822.424828125	5780324	5780326.048	monophasic	F04-F03	0.008	0.2	0.001	n/a
+2827.42333984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2827.42433984375	5790563	5790565.048	monophasic	F04-F03	0.008	0.2	0.001	n/a
+2832.4228515625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2832.4238515625	5800802	5800804.048	monophasic	F04-F03	0.008	0.2	0.001	n/a
+2837.42236328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2837.42336328125	5811041	5811043.048	monophasic	F04-F03	0.008	0.2	0.001	n/a
+2849.1318359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2849.1328359375	5835022	5835024.048	monophasic	F04-F05	0.008	0.2	0.001	n/a
+2854.13134765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2854.13234765625	5845261	5845263.048	monophasic	F04-F05	0.008	0.2	0.001	n/a
+2859.130859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2859.131859375	5855500	5855502.048	monophasic	F04-F05	0.008	0.2	0.001	n/a
+2864.13037109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2864.13137109375	5865739	5865741.048	monophasic	F04-F05	0.008	0.2	0.001	n/a
+2869.1298828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2869.1308828125	5875978	5875980.048	monophasic	F04-F05	0.008	0.2	0.001	n/a
+2875.0263671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2875.0273671875	5888054	5888056.048	monophasic	F05-F04	0.008	0.2	0.001	n/a
+2880.02587890625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2880.02687890625	5898293	5898295.048	monophasic	F05-F04	0.008	0.2	0.001	n/a
+2885.025390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2885.026390625	5908532	5908534.048	monophasic	F05-F04	0.008	0.2	0.001	n/a
+2890.02490234375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2890.02590234375	5918771	5918773.048	monophasic	F05-F04	0.008	0.2	0.001	n/a
+2895.02490234375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2895.02590234375	5929011	5929013.048	monophasic	F05-F04	0.008	0.2	0.001	n/a
+2906.61767578125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2906.61867578125	5952753	5952755.048	monophasic	F05-F06	0.008	0.2	0.001	n/a
+2911.6171875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2911.6181875	5962992	5962994.048	monophasic	F05-F06	0.008	0.2	0.001	n/a
+2916.61669921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2916.61769921875	5973231	5973233.048	monophasic	F05-F06	0.008	0.2	0.001	n/a
+2921.6162109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2921.6172109375	5983470	5983472.048	monophasic	F05-F06	0.008	0.2	0.001	n/a
+2926.61572265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2926.61672265625	5993709	5993711.048	monophasic	F05-F06	0.008	0.2	0.001	n/a
+2932.3515625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2932.3525625	6005456	6005458.048	monophasic	F06-F05	0.008	0.2	0.001	n/a
+2937.3515625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2937.3525625	6015696	6015698.048	monophasic	F06-F05	0.008	0.2	0.001	n/a
+2942.35107421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2942.35207421875	6025935	6025937.048	monophasic	F06-F05	0.008	0.2	0.001	n/a
+2947.3505859375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2947.3515859375	6036174	6036176.048	monophasic	F06-F05	0.008	0.2	0.001	n/a
+2952.35009765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2952.35109765625	6046413	6046415.048	monophasic	F06-F05	0.008	0.2	0.001	n/a
+2964.08154296875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2964.08254296875	6070439	6070441.048	monophasic	F06-F07	0.008	0.2	0.001	n/a
+2969.0810546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	2969.0820546875	6080678	6080680.048	monophasic	F06-F07	0.008	0.2	0.001	n/a
+2974.08056640625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2974.08156640625	6090917	6090919.048	monophasic	F06-F07	0.008	0.2	0.001	n/a
+2979.080078125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2979.081078125	6101156	6101158.048	monophasic	F06-F07	0.008	0.2	0.001	n/a
+2984.07958984375	0.001	electrical_stimulation	SPESclin	n/a	n/a	2984.08058984375	6111395	6111397.048	monophasic	F06-F07	0.008	0.2	0.001	n/a
+2989.8291015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	2989.8301015625	6123170	6123172.048	monophasic	F07-F06	0.008	0.2	0.001	n/a
+2994.82861328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2994.82961328125	6133409	6133411.048	monophasic	F07-F06	0.008	0.2	0.001	n/a
+2999.828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	2999.829125	6143648	6143650.048	monophasic	F07-F06	0.008	0.2	0.001	n/a
+3004.828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	3004.829125	6153888	6153890.048	monophasic	F07-F06	0.008	0.2	0.001	n/a
+3009.82763671875	0.001	electrical_stimulation	SPESclin	n/a	n/a	3009.82863671875	6164127	6164129.048	monophasic	F07-F06	0.008	0.2	0.001	n/a
+3021.576171875	0.001	electrical_stimulation	SPESclin	n/a	n/a	3021.577171875	6188188	6188190.048	monophasic	F07-F08	0.008	0.2	0.001	n/a
+3026.57568359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	3026.57668359375	6198427	6198429.048	monophasic	F07-F08	0.008	0.2	0.001	n/a
+3031.5751953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	3031.5761953125	6208666	6208668.048	monophasic	F07-F08	0.008	0.2	0.001	n/a
+3036.57470703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	3036.57570703125	6218905	6218907.048	monophasic	F07-F08	0.008	0.2	0.001	n/a
+3041.57470703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	3041.57570703125	6229145	6229147.048	monophasic	F07-F08	0.008	0.2	0.001	n/a
+3047.32421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	3047.32521875	6240920	6240922.048	monophasic	F08-F07	0.008	0.2	0.001	n/a
+3052.32373046875	0.001	electrical_stimulation	SPESclin	n/a	n/a	3052.32473046875	6251159	6251161.048	monophasic	F08-F07	0.008	0.2	0.001	n/a
+3057.3232421875	0.001	electrical_stimulation	SPESclin	n/a	n/a	3057.3242421875	6261398	6261400.048	monophasic	F08-F07	0.008	0.2	0.001	n/a
+3062.32275390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	3062.32375390625	6271637	6271639.048	monophasic	F08-F07	0.008	0.2	0.001	n/a
+3067.322265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	3067.323265625	6281876	6281878.048	monophasic	F08-F07	0.008	0.2	0.001	n/a
