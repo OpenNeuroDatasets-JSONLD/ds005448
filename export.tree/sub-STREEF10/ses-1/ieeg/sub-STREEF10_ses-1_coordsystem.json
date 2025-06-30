@@ -1,8 +1,0 @@
-{
-	"iEEGCoordinateSystem": "Other",
-	"iEEGCoordinateSystemDescription": "The origin of the coordinate system is between the ears and the axis are in the RAS direction. The scaling is with respect to the individuals anatomical scan and no scaling or deformation have been applied to the individuals anatomical scan",
-	"iEEGCoordinateUnits": "mm",
-	"iEEGCoordinateProcessingDescription": "Surface projection Hermes or Branco",
-	"IntendedFor": "sub-STREEF03\/ses-1\/anat\/sub-STREEF03_ses-1_proc-deface_T1w.nii",
-	"iEEGCoordinateProcessingReference": "Hermes et al., 2010 JNeuroMeth , Branco et al., 2018 JNeuroMeth"
-}
